@@ -1,0 +1,24 @@
+
+.icon-down-circle:before { content: '\32'; } /* '2' */
+.icon-right-circle:before { content: '\34'; } /* '4' */
+.icon-left-circle:before { content: '\36'; } /* '6' */
+.icon-up-circle:before { content: '\38'; } /* '8' */
+.icon-behance-squared:before { content: '\42'; } /* 'B' */
+.icon-mail:before { content: '\45'; } /* 'E' */
+.icon-facebook-official:before { content: '\46'; } /* 'F' */
+.icon-gmail:before { content: '\47'; } /* 'G' */
+.icon-instagram:before { content: '\49'; } /* 'I' */
+.icon-pencil:before { content: '\4d'; } /* 'M' */
+.icon-paypal:before { content: '\50'; } /* 'P' */
+.icon-twitter:before { content: '\54'; } /* 'T' */
+.icon-location-1:before { content: '\55'; } /* 'U' */
+.icon-whatsapp:before { content: '\57'; } /* 'W' */
+.icon-youtube-play:before { content: '\59'; } /* 'Y' */
+.icon-behance-1:before { content: '\62'; } /* 'b' */
+.icon-facebook-rect:before { content: '\66'; } /* 'f' */
+.icon-instagram-filled:before { content: '\69'; } /* 'i' */
+.icon-comment-inv-alt2:before { content: '\6d'; } /* 'm' */
+.icon-torso:before { content: '\6e'; } /* 'n' */
+.icon-phone:before { content: '\74'; } /* 't' */
+.icon-location:before { content: '\75'; } /* 'u' */
+.icon-youtube:before { content: '\79'; } /* 'y' */
